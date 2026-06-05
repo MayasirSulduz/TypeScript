@@ -1,0 +1,1 @@
+let cups = Math.random() >0.3 ? 10 : "4dfv"
